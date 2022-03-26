@@ -1,0 +1,16 @@
+.contador {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    background-color: #e27d60;
+    border: 2px #6e7d6c solid;
+    border-radius: 5px;
+    width: 250px;
+    height: 250px;
+}
+
+h1 {
+    font-size: 150px;
+    font-weight: bold;
+}
