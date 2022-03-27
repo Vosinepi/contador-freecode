@@ -3,11 +3,12 @@
     align-items: center;
     justify-content: center;
     margin-top: 15px;
+    padding: 30px;
     background-color: #e27d60;
     border: 2px #6e7d6c solid;
     border-radius: 5px;
-    width: 250px;
-    height: 250px;
+    min-width: 250px;
+    min-height: 250px;
 }
 
 h1 {
